@@ -2,6 +2,10 @@
 
 **ahipsharma/ahipsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![image_processing20211030-4633-19uq0zy](https://user-images.githubusercontent.com/76726757/171139999-917e1679-827a-49be-a325-bd24e485abfb.gif)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - DTI project with python
