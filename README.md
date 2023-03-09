@@ -2,9 +2,6 @@
 Myself Ahip Sharma
 
 
-![image_processing20211030-4633-19uq0zy](https://user-images.githubusercontent.com/76726757/171139999-917e1679-827a-49be-a325-bd24e485abfb.gif)
-
-
 - 🔭 I’m currently working on - Web Development
 - 🌱 I’m currently learning - C++, React js, Next js.
 - 👯 I’m looking to collaborate on - To make website.
