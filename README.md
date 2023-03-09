@@ -6,7 +6,7 @@ Myself Ahip Sharma
 - 🌱 I’m currently learning - C++, React js, Next js.
 - 👯 I’m looking to collaborate on - To make website.
 - 🤔 I’m looking for help with - Java project
-- 💬 Ask me about - Java, C++
+- 💬 Ask me about - C++
 - 📫 How to reach me: - LinkedIn profile - https://www.linkedin.com/in/ahip-sharma-093060202/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a musician.
