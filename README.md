@@ -6,7 +6,7 @@ Myself Ahip Sharma
 
 
 - 🔭 I’m currently working on - Web Development
-- 🌱 I’m currently learning - C++
+- 🌱 I’m currently learning - C++, React js, Next js.
 - 👯 I’m looking to collaborate on - To make website.
 - 🤔 I’m looking for help with - Java project
 - 💬 Ask me about - Java, C++
